@@ -116,6 +116,13 @@ Analyze trades visually on price charts to validate strategy behavior.
 
 
 ---
+HOW TO RUN THE APPLICATION ::
+1) git clone https://github.com/vigneshswamy04-droid/quant-backtesting-engine.git
+2) cd quant-backtesting-engine
+3) python -m venv .venv  &&  source .venv/bin/activate   (Windows: .\.venv\Scripts\Activate)
+4) pip install -r requirements.txt
+5) streamlit run src/ui/frontendfinal.py
+6) open http://localhost:8501
 
 ## 🛠️ Roadmap
 [NEXT 1-2 MONTHS]
