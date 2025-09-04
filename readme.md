@@ -72,7 +72,7 @@ quant-backtesting-engine/
 
 ---
 
-## 📸 Screenshots
+## 📸 GIFS::
 
 ![Alt text](https://github-production-user-asset-6210df.s3.amazonaws.com/230210682/485786483-fff6f1cb-297a-4bea-8187-2598103121b1.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250904%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250904T173411Z&X-Amz-Expires=300&X-Amz-Signature=dcca934ef396f0034a04c3cc6279d01fe9a19189fbf9251cd5c4d6d32b8ed987&X-Amz-SignedHeaders=host)
 
@@ -87,8 +87,14 @@ quant-backtesting-engine/
 
 ## 🛠️ Roadmap
 
-- [ ] Add more pre-built strategies  
-- [ ] Integrate live market data APIs  
-- [ ] Add machine learning-based strategy selection  
-- [ ] Extend portfolio optimization module  
-- [ ] Deploy demo app online
+- [ ] Add core technical indicators (EMA, MACD, RSI, Bollinger Bands, etc.)  
+- [ ] Build new strategies leveraging these indicators (trend-following, mean reversion, momentum)  
+- [ ] Integrate financial time series models (ARIMA, GARCH, VAR) for return and volatility forecasting  
+- [ ] Apply machine learning models (Random Forest, SVM, Neural Networks) combining technical indicators + time-series features to predict price movements  
+- [ ] Expand evaluation framework with ML backtests and model comparison metrics  
+- [ ] Implement portfolio construction methods:  
+  - Equally weighted portfolios  
+  - Volatility-based (minimum variance) portfolios  
+  - Mean-variance optimization (Markowitz framework)  
+- [ ] Extend portfolio optimization module with Sharpe ratio maximization and risk-parity strategies  
+- [ ] Deploy demo app online with interactive dashboards
