@@ -72,9 +72,16 @@ quant-backtesting-engine/
 
 ---
 
-## 📷 Screenshots
+## 📸 Screenshots
 
-_Add screenshots or a short GIF of your Streamlit UI here._
+![Alt text](https://github-production-user-asset-6210df.s3.amazonaws.com/230210682/485786483-fff6f1cb-297a-4bea-8187-2598103121b1.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250904%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250904T173411Z&X-Amz-Expires=300&X-Amz-Signature=dcca934ef396f0034a04c3cc6279d01fe9a19189fbf9251cd5c4d6d32b8ed987&X-Amz-SignedHeaders=host)
+
+
+
+
+
+
+
 
 ---
 
