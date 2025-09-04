@@ -7,7 +7,7 @@ This engine includes multiple market effect strategies, trade and performance me
 
 ## 📂 Project Structure
 
-quant-backtesting-engine/
+```quant-backtesting-engine/
 │
 ├── README.md
 ├── LICENSE
@@ -69,11 +69,11 @@ quant-backtesting-engine/
 - **Frontend**
   - Streamlit app for easy interaction
   - Run strategies, view backtests, and analyze metrics visually
-
+```
 ---
 
 🚀 Walkthrough
-Using the Quant Strategy Dashboard is straightforward::
+```Using the Quant Strategy Dashboard is straightforward::
 Choose Asset Type
 Select whether you want to backtest on Stocks or ETFs.
 Pick a Ticker
@@ -100,6 +100,7 @@ Compare results across multiple runs to see which effect or strategy performs be
 Visualize Results
 Use the interactive Streamlit interface to view equity curves, trade signals, and performance comparisons.
 Analyze trades visually on price charts to validate strategy behavior.
+```
 
 
 
